@@ -1,7 +1,7 @@
 # **Dynamic Rotation - Robotic Arm Simulation**  
 
 ## **Overview**  
-This project implements a **2D robotic arm simulation** using **Pygame**. The robotic arm consists of three links that smoothly transition to target angles using interpolation.  
+This lab work implements a **2D robotic arm simulation** using **Pygame**. The robotic arm consists of three links that smoothly transition to target angles using interpolation.  
 
 ## **Features**  
 - Three-link **robotic arm** with smooth rotation.  
